@@ -1,2 +1,1 @@
-# Part 2
-The
+# This repository contains all of the exercises from FullstackOpen
